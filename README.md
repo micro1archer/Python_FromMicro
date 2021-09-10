@@ -1,2 +1,2 @@
 # Python_FromMicro
-somethings which I wrote python , follow and support pls.
+somethings which I write python , follow and support pls.
